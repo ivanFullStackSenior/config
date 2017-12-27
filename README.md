@@ -1,1 +1,1 @@
-# webpack config & many pakacges
+# webpack config & many packages
